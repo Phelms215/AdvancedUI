@@ -405,3 +405,4 @@ obj/
 bin/
 .idea/
 .git/
+.idea/*
